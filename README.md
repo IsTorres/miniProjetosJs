@@ -1,2 +1,2 @@
 # miniProjetosJs
-### alguns exercicios de JavaScript
+### alguns exercícios de JavaScript
